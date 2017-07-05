@@ -479,4 +479,6 @@
     console.log(func('拾分之一'));
     console.log(func('十'));
 
-} ()
+} ();
+
+'啊就是大佛ias解放军的说法'
