@@ -480,5 +480,3 @@
     console.log(func('十'));
 
 } ();
-
-'啊就是大佛ias解放军的说法l;d;gjsl;dgf'
